@@ -13,6 +13,9 @@ Sou iniciante em desenvolvimento e estou estudando Python atualmente!
   <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=EvandroTM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
  </div>
+  
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="evandro-tm-55b58a251" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/evandro-tm-55b58a251?trk=profile-badge">Evandro TM</a></div>
+              
  
  ## Tecnologias que eu uso atualmente! 
 <div style="display: inline_block"><br>
